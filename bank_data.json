@@ -1,0 +1,14 @@
+{
+   "bank_name": "Tinkoff",
+   "developments": [
+      {
+         "development_name": "IT",
+         "employee_data": [
+            {
+               "last_name": "Grigorev",
+               "position": "Developer"
+            }
+         ]
+      }
+   ]
+}
